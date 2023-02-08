@@ -18,3 +18,4 @@ Write a script that lists all files (even ones with names beginning with a perio
 16. Clean Emacs
 17. Tree
 18. Life is a series of commas, not periods
+19. File type: School
